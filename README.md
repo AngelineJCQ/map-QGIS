@@ -40,7 +40,7 @@ And these are my works:
 I tried more different maps and used more colors! The instruction can be found [here](https://gist.github.com/jsoma/807c07ad59064b7fef96c8d561834e2d)
 
 ### Locatormap
-![powerbystate](https://github.com/AngelineJCQ/map-QGIS/blob/main/map/2-hexbinmap.png)
+![powerbystate](https://github.com/AngelineJCQ/map-QGIS/blob/main/map/1-locatormap.png)
 
 ### Hexbinmap
 ![powerbystate](https://github.com/AngelineJCQ/map-QGIS/blob/main/map/2-hexbinmap.png)
